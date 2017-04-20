@@ -1,1 +1,1 @@
-Start at Into to Redux intro
+Start at Actions
