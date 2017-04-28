@@ -1,1 +1,1 @@
-Start at Connect Container
+Start at bindActionCreators
