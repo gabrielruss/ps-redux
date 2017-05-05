@@ -1,1 +1,1 @@
-Start at Redux Flow - Instantiate Store and Provider
+Start at Redux Flow - Thunk Overview
